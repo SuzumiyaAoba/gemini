@@ -17,3 +17,5 @@ jobs:
 
       - name: Publish
         run: ./publish.sh
+        env:
+          SOURCEHUT_PERSONAL_ACCESS_TOKEN: ${{secrets.SOURCEHUT_PERSONAL_ACCESS_TOKEN}}

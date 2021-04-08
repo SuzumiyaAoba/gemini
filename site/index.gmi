@@ -1,1 +1,15 @@
-Hello World!
+# SizumiyaAoba's Capsule
+
+## Gemini
+
+=> https://gemini.circumlunar.space
+
+### ブラウザ
+
+#### Amfora
+
+=> https://github.com/makeworld-the-better-one/amfora
+
+#### Elpher
+
+=> https://github.com/emacsmirror/elpher

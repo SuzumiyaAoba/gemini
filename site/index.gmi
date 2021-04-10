@@ -12,6 +12,10 @@
 
 => gemini://gemini.circumlunar.space/
 
+### Geminiに関するメモ
+
+=> /gemini/gemtext.gmi
+
 ## ブラウザ
 
 ### Amfora
